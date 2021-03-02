@@ -72,7 +72,7 @@ Sketch out the possible general architecture of the system, defining the main bl
 Clone this repository on both the Raspberry Pi and the remote workstation:
 
 ```
-https://github.com/Davidelanz/soccer-match-robot.git
+https://github.com/AlbertoGhiotto/soccer-match-robot.git
 ```
 
 Then build the workspace:
